@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /vault
+Disallow: /admin
+Disallow: /s
+Disallow: /api/
+
+Sitemap: https://www.sees.im/sitemap.xml
